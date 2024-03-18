@@ -1,0 +1,21 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+ul {
+    
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
